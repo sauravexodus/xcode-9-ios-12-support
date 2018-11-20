@@ -4,3 +4,4 @@
 - `git clone git@github.com:sauravexodus/xcode-9-ios-12-support.git`
 - `cd xcode-9-ios-12-support`
 - `. ./install.sh`
+- Restart Xcode
