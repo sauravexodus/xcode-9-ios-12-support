@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Platform-iOS%2012.2.3-brightgreen.svg?style=for-the-badge&logo=appveyor"/>
+<img src="https://img.shields.io/badge/Platform-iOS%2012.3.2-brightgreen.svg?style=for-the-badge&logo=appveyor"/>
 
 # Xcode 9 iOS 12 Support
 
